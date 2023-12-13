@@ -1,0 +1,12 @@
+name
+name
+place
+plural noun
+plural noun
+adjective
+vehicle
+noun
+occupation
+female name
+adjective
+noun
